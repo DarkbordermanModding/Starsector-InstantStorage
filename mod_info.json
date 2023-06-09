@@ -1,0 +1,10 @@
+{
+	"id":"darkborderman.instantstorage",
+	"name":"Instant Storage",
+	"author":"Darkborderman",
+	"version":"0.0.0",
+	"description":"A cheaty mod to access specific market instantly in Starsector.",
+	"gameVersion":"0.97a-RC11",
+	"jars": ["jars/instantstorage.jar"],
+	"modPlugin": "mod.instantstorage.InstantStorageModPlugin"
+}

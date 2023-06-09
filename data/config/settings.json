@@ -1,0 +1,9 @@
+{
+    "InstantStorage": {
+        # O key on keyboard
+        "KeyboardID": 24,
+        # Abandoned terraform platform in Corvus
+        # You can use console command to find market ID
+        "MarketID": "corvus_abandoned_station"
+    }
+}
